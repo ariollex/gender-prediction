@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+
+# data
+data
+
+# output data
+output
+
+# IDEs and editors
+.vscode/
+
+# macOS
+.DS_Store
+
+# catboost data
+catboost_info
